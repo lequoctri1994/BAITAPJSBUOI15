@@ -113,7 +113,16 @@ function ex2 (){
 
 ex2()
 
-
+/***
+ * INPUT:
+ * họ tên, tổng thu nhập, số người phụ thuộc
+ * 
+ * PROGRESS:
+ * tính thu nhập chịu thuế, tính và xuất thuế thu nhập cá nhân
+ * 
+ * OUTPUT:
+ * in thuế thu nhập cá nhân ra màn hình
+ */
 
 function ex3 (){
     var fullName = "Lê Quốc Trị";
